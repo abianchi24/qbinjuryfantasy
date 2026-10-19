@@ -20,7 +20,7 @@ NFL data from 2016–2025 regular seasons via [nflverse](https://nflverse.nflver
 
 ## Findings
 
-![Findings table](powerbi/qb_findings_table.png)
+<img width="1340" height="372" alt="qb_findings_table" src="https://github.com/user-attachments/assets/ebca0386-eba6-46cf-9ee0-480a88ef6672" />
 
 | Position | Effect (PPR pts/game) | Main driver |
 |---|---|---|
